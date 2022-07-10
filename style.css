@@ -23,7 +23,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(var(--blue) 0%, var(--blackblue) 100%);
+  background: url('./images/bg.gif');
 }
 .wrapper{
   width: 380px;
