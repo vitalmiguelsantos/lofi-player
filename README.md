@@ -1,17 +1,12 @@
-![header](https://cdn.discordapp.com/attachments/947910673470480397/985022381653381140/Laranja_e_Branco_Divertido_Apresentacao_Animada_sobre_Namoro.png)
-
-> Status: Developed 🙅🏾‍♂️
+## | Lofi Player |
 
 
-> Responsivity: 😁👌🏽
-
-### It is a web application where I practiced my knowledges in HTML and CSS.
+### It is a web application where I practiced my knowledges in JavaScript. I reviewed a YouTube tutorial to learn and practice how to use 'QuerySelector' and 'Events' for DOM manipulation.
 
 ## Technologies Used:
 
  <div display:"inline-block" align="center"><br>
-  <img align="justify" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="justify" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="justify" alt="JavaScript" height="50" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
 ## How to run the application:
